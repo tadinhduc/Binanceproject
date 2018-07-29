@@ -1,2 +1,2 @@
-# Binanceproject
+#binance
 getDataApi
